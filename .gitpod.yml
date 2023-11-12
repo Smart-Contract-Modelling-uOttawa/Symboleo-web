@@ -3,13 +3,11 @@ ports:
 
 tasks:
     - name: server
-      init: >
-            sdk install java 17.0.3-ms &&
-            sdk default java 17.0.3-ms
-      command: |
-                java -jar ca.uottawa.csmlab.symboleo.ide-1.0.0-SNAPSHOT-ls.jar
-                gp sync-done bundle
-    
+      init: |
+            sdk install java 17.0.3-ms -y
+            gp sync-done bundle
+      command: java -jar ca.uottawa.csmlab.symboleo.ide-1.0.0-SNAPSHOT-ls.jar
+                
     - name: client
       init: |
             cd client
@@ -17,5 +15,3 @@ tasks:
       command: |
                 gp sync-await bundle
                 npm start
-
-    
