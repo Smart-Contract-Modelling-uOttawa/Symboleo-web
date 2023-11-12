@@ -1,0 +1,21 @@
+ports:
+- port: 5007
+
+tasks:
+    - name: server
+      init: >
+            sdk install java 17.0.3-ms &&
+            sdk default java 17.0.3-ms
+      command: |
+                java -jar ca.uottawa.csmlab.symboleo.ide-1.0.0-SNAPSHOT-ls.jar
+                gp sync-done bundle
+    
+    - name: client
+      init: |
+            cd client
+            npm i
+      command: |
+                gp sync-await bundle
+                npm start
+
+    
