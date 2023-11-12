@@ -14,7 +14,7 @@ root.render(<Fragment>
 </pre>
 <ReactMonacoEditor
     defaultCode={defaultCode}
-    hostname={'5007-smartcontra-symboleoweb-p4nicbd2567.ws-us106.gitpod.io/'}
+    hostname={'localhost'}
     path={'/'}
     port={5007} />
     
