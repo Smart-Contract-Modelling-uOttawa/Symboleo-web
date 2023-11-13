@@ -1,8 +1,11 @@
 # Symboleo-web
-A web based IDE created for the symboleo language using monaco-languageclient
+A web based IDE created for the symboleo language using monaco-languageclient. Read the prerequisites if this is your first time using this.
+
+Open the below link after whitelisting and wait for your code editor to pop-up<br /><br />
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/new/#snapshot/fc68f3b8-6386-4aa8-827b-d0d62fe9456d)
 
 Prerequisites - Needs to be done only once<br /><br />
-Whitelist Gitpod for popups
+Whitelist Gitpod for popups - Add [*.]gitpod.io as your whitelist<br /><br />
    1. Chrome:<br /><br />
        A. Settings -> Privacy and Security<br /><br />
        B. Click on Site Settings<br /><br />
@@ -21,9 +24,6 @@ Whitelist Gitpod for popups
        ![image](https://github.com/Smart-Contract-Modelling-uOttawa/Symboleo-web/assets/41239586/2b19f8d1-b3bc-49bc-84d2-acdb0b9682a3)
        D. Add [*.]gitpod.io in the website tab as shown below and click Add<br /><br />
        ![image](https://github.com/Smart-Contract-Modelling-uOttawa/Symboleo-web/assets/41239586/b8677724-78a3-44f3-8c71-616f68dd5c94)
-
-Open the below link after whitelisting and wait for your code editor to pop-up<br /><br />
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/new/#snapshot/fc68f3b8-6386-4aa8-827b-d0d62fe9456d)
 
 If you do not/cannot whitelist gitpod, after launching gitpod wait for terminal to pop - look for ports as shown below<br /><br />
 ![image](https://github.com/Smart-Contract-Modelling-uOttawa/Symboleo-web/assets/41239586/641bf8df-2b5d-4b40-99f1-5aa9c3b6655e)
