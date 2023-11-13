@@ -1,7 +1,7 @@
 # Symboleo-web
 A web based IDE created for the symboleo language using monaco-languageclient
 
-Prerequisites - Needs to be done only once<br>
+Prerequisites - Needs to be done only once<br />
 Whitelist Gitpod for popups
    1. Chrome:
        A. Settings -> Privacy and Security
