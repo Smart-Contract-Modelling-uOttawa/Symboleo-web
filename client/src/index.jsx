@@ -14,7 +14,7 @@ root.render(<Fragment>
 </pre>
 <ReactMonacoEditor
     defaultCode={defaultCode}
-    hostname={'localhost'}
+    hostname={window.location.hostname.replace("3000-", "5007-") + '/'}
     path={'/'}
     port={5007} />
     
