@@ -12,4 +12,6 @@ tasks:
       init: |
             cd client
             npm i
-      command: npm start
+      command: |
+               cd client
+               npm start               
