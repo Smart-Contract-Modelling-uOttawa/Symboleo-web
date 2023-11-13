@@ -1,17 +1,15 @@
+image:
+    file: .gitpod.Dockerfile
+
 ports:
 - port: 5007
 
 tasks:
     - name: server
-      init: |
-            sdk install java 17.0.3-ms -y
-            gp sync-done bundle
       command: java -jar ca.uottawa.csmlab.symboleo.ide-1.0.0-SNAPSHOT-ls.jar
                 
     - name: client
       init: |
             cd client
             npm i
-      command: |
-                gp sync-await bundle
-                npm start
+      command: npm start
