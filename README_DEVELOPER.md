@@ -114,6 +114,9 @@ For a video Walkthrough (OS in video is MACOS)
 
 5. The link has been copied to your clipboard. You have successfully created a snapshot of the new hosted jar. Share it!
 
+6. Replace the gitpod link in [README.md](https://github.com/Smart-Contract-Modelling-uOttawa/Symboleo-web/blob/main/README.md) to ensure users can access this newly hosted IDE. (Highlighted in below screenshot)
+![image](https://github.com/Smart-Contract-Modelling-uOttawa/Symboleo-web/assets/41239586/1a25de28-b2a7-45f9-ab6a-daff3276b86a)
+
 # Download generated JS files
 
 1. When you enter **error free** code in Symboleo-Web IDE, a new `src-gen` folder is created in gitpod as shown below <br /> <br />
