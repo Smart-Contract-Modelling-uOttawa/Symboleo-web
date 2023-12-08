@@ -86,7 +86,7 @@ For a video Walkthrough (OS in video is MACOS)
 3. Log in to [gitpod.io](https://www.gitpod.io/) using github <br /> <br />
 ![image-12](https://github.com/Smart-Contract-Modelling-uOttawa/Symboleo-web/assets/41239586/ad55c098-f627-4df5-9b21-80f649dc50ce)
 
-4. Click on new repository <br /> <br />
+4. Click on new workspace <br /> <br />
 ![image-13](https://github.com/Smart-Contract-Modelling-uOttawa/Symboleo-web/assets/41239586/385fd0de-99bb-4778-91e7-f630bc2e9642)
 
 5. Add the repository link as shown below`https://github.com/Smart-Contract-Modelling-uOttawa/Symboleo-web` <br /> <br />
