@@ -83,7 +83,7 @@ For a video Walkthrough (OS in video is MACOS)
 
 2. Ensure you whitelisted gitpod as mentioned in repo [README.md](https://github.com/Smart-Contract-Modelling-uOttawa/Symboleo-web/blob/main/README.md)
 
-3. Log in to [gitpod.io] using github(https://www.gitpod.io/) <br /> <br />
+3. Log in to [gitpod.io](https://www.gitpod.io/) using github <br /> <br />
 ![image-12](https://github.com/Smart-Contract-Modelling-uOttawa/Symboleo-web/assets/41239586/ad55c098-f627-4df5-9b21-80f649dc50ce)
 
 4. Click on new repository <br /> <br />
