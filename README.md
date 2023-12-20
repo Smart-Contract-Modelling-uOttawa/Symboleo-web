@@ -5,6 +5,8 @@ A web based IDE created for the symboleo language using monaco-languageclient. `
 Oopen the link below `after whitelisting` and wait for your code editor to pop-up<br /><br />
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/new/#snapshot/fc68f3b8-6386-4aa8-827b-d0d62fe9456d)
 
+![image-20](https://github.com/Smart-Contract-Modelling-uOttawa/Symboleo-web/assets/41239586/62669bb6-e6a2-4029-9c5e-65484233fc1c)
+
 # Prerequisites - Whitelist Gitpod for popups
    1. `Chrome`<br /><br />
        A. Settings -> Privacy and Security<br /><br />
