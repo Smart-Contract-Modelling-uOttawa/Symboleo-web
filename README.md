@@ -2,10 +2,18 @@
 A web based IDE created for the symboleo language using monaco-languageclient. `Read the prerequisites` if this is your first time using this. If you want to contribute, first have a look at the [`developer documentation`](README_DEVELOPER.md).
 
 # Try the tool online!
-Oopen the link below `after whitelisting` and wait for your code editor to pop-up<br /><br />
+Open the link below `after whitelisting` and wait for your code editor to pop-up<br /><br />
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/new/#snapshot/fc68f3b8-6386-4aa8-827b-d0d62fe9456d)
 
-![image-20](https://github.com/Smart-Contract-Modelling-uOttawa/Symboleo-web/assets/41239586/62669bb6-e6a2-4029-9c5e-65484233fc1c)
+
+A Symboleo specification as seen in SymboleoWeb. <br /><br />
+![SymboleoWeb-Editor (1)](https://github.com/Smart-Contract-Modelling-uOttawa/Symboleo-web/assets/41239586/8c787c47-e2b1-485e-b503-0696e83328a5)
+
+In the above example, the contract specification contains an error in line 18, which is correctly highlighted as such. Furthermore, hovering over an error gives useful insights into how the error might be resolved. For example, in line 6, the editor suggests how to properly auto-complete a parameter type that starts with B (user-defined types are also suggested)
+
+![SymboleoWeb-JS](https://github.com/Smart-Contract-Modelling-uOttawa/Symboleo-web/assets/41239586/297531db-820e-4c4a-afcc-ab21f44805bd)
+
+Finally, as shown in above screenshot, once the server recognizes an error-free Symboleo specification, it automatically invokes Symboleo2SC to generate the corresponding smart contract code in JavaScript, including the different assets, roles, obligations, events, etc. The user can view (and even edit, although this is not recommended) the generated files directly in SymboleoWeb or (more likely) download them for direct deployment over the Hyperledger Fabric platform. Instructions to download generated code are given below.
 
 # Prerequisites - Whitelist Gitpod for popups
    1. `Chrome`<br /><br />
