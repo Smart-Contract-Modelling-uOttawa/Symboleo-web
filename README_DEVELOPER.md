@@ -150,9 +150,10 @@ A client, opens up a new instance using gitpod. A request is made to the backend
 1. [Monarch Language](https://microsoft.github.io/monaco-editor/monarch.html) (for syntax highlight)
 2. [monaco-languageclient](https://microsoft.github.io/monaco-editor/docs.html)
 3. [LSP4J](https://github.com/eclipse-lsp4j/lsp4j)
-4. [React.js](https://react.dev/)
-5. [Docker](https://www.gitpod.io/docs/configure/workspaces/tasks) (for autorun everytime gitpod is launched)
-6. [Gitpod.io](https://www.gitpod.io/) (for hosting purposes)
+4. [Maven](https://maven.apache.org/) (Build tool to create jar file)
+5. [React.js](https://react.dev/)
+6. [Docker](https://www.gitpod.io/docs/configure/workspaces/tasks) (for autorun everytime gitpod is launched)
+7. [Gitpod.io](https://www.gitpod.io/) (for hosting purposes)
 
 # Other tools tested and why they did not work
 1. Hosting solutions
