@@ -148,19 +148,19 @@ A client, opens up a new instance using gitpod. A request is made to the backend
 
 # Tools and Frameworks used
 1. [Monarch Language](https://microsoft.github.io/monaco-editor/monarch.html) (for syntax highlight)
-2. [monaco-languageclient](https://microsoft.github.io/monaco-editor/docs.html)
-3. [LSP4J](https://github.com/eclipse-lsp4j/lsp4j)
+2. [monaco-languageclient](https://microsoft.github.io/monaco-editor/docs.html) (to build the editor)
+3. [LSP4J](https://github.com/eclipse-lsp4j/lsp4j) (to enable [LSP](https://microsoft.github.io/language-server-protocol/) for the Language Server)
 4. [Maven](https://maven.apache.org/) (Build tool to create jar file)
-5. [React.js](https://react.dev/)
-6. [Docker](https://www.gitpod.io/docs/configure/workspaces/tasks) (for autorun everytime gitpod is launched)
+5. [React.js](https://react.dev/) (Frontend library used to build this project)
+6. [Docker](https://www.gitpod.io/docs/configure/workspaces/tasks) (for autorun everytime gitpod is launched used in the [.Dockerfile](https://github.com/Smart-Contract-Modelling-uOttawa/Symboleo-web/blob/main/.gitpod.Dockerfile))
 7. [Gitpod.io](https://www.gitpod.io/) (for hosting purposes)
 
 # Other tools tested and why they did not work
 1. Hosting solutions
    
-   A. Vercel - No support for Java backend
+   A. [Vercel](https://vercel.com/) - No support for Java backend
 
-   B. Heroku - Error hosting the Java Backend. No communication between backend and frontend. Never resolved
+   B. [Heroku](https://www.heroku.com/) - Error hosting the Java Backend. No communication between backend and frontend. Never resolved <br /> <br />
    ![MicrosoftTeams-image](https://github.com/Smart-Contract-Modelling-uOttawa/Symboleo-web/assets/41239586/1968e1e4-f485-44a1-af9c-5deed7dbb9ca)
 
 # Some useful resources
