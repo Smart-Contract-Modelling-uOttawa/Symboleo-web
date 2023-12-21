@@ -1,4 +1,4 @@
-# Symboleo-web
+# SymboleoWeb
 
 Follow this documentation if you would like to package your existing Symboleo eclipse IDE to work as a browser IDE
 
