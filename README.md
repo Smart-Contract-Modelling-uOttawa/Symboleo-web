@@ -5,7 +5,7 @@ A web based IDE created for the symboleo language using monaco-languageclient. `
 Open the link below `after whitelisting` and wait for your code editor to pop-up<br /><br />
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/new/#snapshot/fc68f3b8-6386-4aa8-827b-d0d62fe9456d)
 
-
+# Features of SymboleoWeb
 A Symboleo specification as seen in SymboleoWeb. <br /><br />
 ![SymboleoWeb-Editor (1)](https://github.com/Smart-Contract-Modelling-uOttawa/Symboleo-web/assets/41239586/8c787c47-e2b1-485e-b503-0696e83328a5)
 
