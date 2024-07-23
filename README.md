@@ -3,7 +3,7 @@ A web based IDE created for the symboleo language using monaco-languageclient. `
 
 # Try the tool online!
 Open the link below `after whitelisting` and wait for your code editor to pop-up. To learn about the Symboleo specification language itself, [click here](https://github.com/Smart-Contract-Modelling-uOttawa/Symboleo-IDE)<br /><br />
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)]((https://gitpod.io#snapshot/c79e9424-b6bf-445f-807f-d69a1c9008fc))
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/c79e9424-b6bf-445f-807f-d69a1c9008fc)
 
 # Features of SymboleoWeb
 A Symboleo specification as seen in SymboleoWeb. <br /><br />
